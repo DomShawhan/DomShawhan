@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer
+I have graduated from a full stack bootcamp with experience in .Net and the Spring Framework. I enjoy coding and turning ideas into applications.
 
 
 ## 🌐 Socials:
